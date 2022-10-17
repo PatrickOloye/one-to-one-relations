@@ -21,6 +21,7 @@ const identifierSchema = new Schema({
     //you can do another method called embeded reference
     //customer: customerSchema
     //but then we wont have to populate
+    //ensure to remove the populate
 })
 
 
